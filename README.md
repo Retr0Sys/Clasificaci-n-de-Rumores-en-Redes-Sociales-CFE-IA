@@ -22,7 +22,7 @@ La columna "topic" es eliminada del conjunto debido a su alta tasa de valores nu
 Los valores nulos remanentes en las variables "is_rumor" y "user.handle" son tratados mediante el remplazado por valores predeterminados para garantizar la integridad del dataset.
 
 ## 2. Desarrollo y Entrenamiento del Modelo
-El modelo se entrena para establecer la relación probabilística entre el contenido del mensaje y su clasificación binaria.
+El modelo se entrena para establecer la relación entre el contenido del mensaje y su clasificación binaria.
 
 ### Variables Clave y Metodología
 Variable Independiente: "text" (Contenido del mensaje).
