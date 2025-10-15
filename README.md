@@ -38,4 +38,4 @@ Generación de Predicciones: El modelo entrenado se aplica al conjunto de datos 
 Validación Externa: El archivo resultante, que contiene las etiquetas predichas, es exportado y cargado en una plataforma de comprobación externa. 
 
 ## 4. Resultados
-<img width="500" alt="Métrica de Desempeño del Modelo" src="https://github.com/user-attachments/assets/50cadafc-3031-4ad0-b520-3b6cbb4e7324" />
+<img width="800" alt="Métrica de Desempeño del Modelo" src="https://github.com/user-attachments/assets/50cadafc-3031-4ad0-b520-3b6cbb4e7324" />
