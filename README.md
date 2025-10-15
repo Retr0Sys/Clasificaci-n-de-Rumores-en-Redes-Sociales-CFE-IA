@@ -4,7 +4,7 @@
 Este proyecto presenta la implementación de un modelo de Aprendizaje Supervisado (Regresión Logística) desarrollado en Python para la predicción de la veracidad de rumores en plataformas de redes sociales. El objetivo es clasificar los mensajes de texto como rumor (1) o no rumor (0), mediante la identificación de patrones lingüísticos y características textuales correlacionadas con la propagación de información falsa.
 ----
 
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/10d4fa45-09a8-4927-8e46-6633344c35b6" />
+![3de0b1c2cd036a5112ac231af2c5b7c6](https://github.com/user-attachments/assets/9c302335-2af0-4b20-9456-de0b698dd28a)
 
 ----
 
