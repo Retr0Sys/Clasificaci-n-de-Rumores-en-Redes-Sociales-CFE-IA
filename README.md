@@ -1,12 +1,11 @@
 # Modelo de Regresión Logística para la Detección de Falsedad en Mensajes de Redes Sociales
 ## Modelo de Machine Learning simple programado en Python (LogisticRegression)
+Este proyecto presenta la implementación de un modelo de Aprendizaje Supervisado (Regresión Logística) desarrollado en Python para la predicción de la veracidad de rumores en plataformas de redes sociales. El objetivo es clasificar los mensajes de texto como rumor (1) o no rumor (0), mediante la identificación de patrones lingüísticos y características textuales correlacionadas con la propagación de información falsa.
 
 ----
 
 <img src="https://github.com/user-attachments/assets/9c302335-2af0-4b20-9456-de0b698dd28a" alt="3de0b1c2cd036a5112ac231af2c5b7c6" width="600">
 
-----
-Este proyecto presenta la implementación de un modelo de Aprendizaje Supervisado (Regresión Logística) desarrollado en Python para la predicción de la veracidad de rumores en plataformas de redes sociales. El objetivo es clasificar los mensajes de texto como rumor (1) o no rumor (0), mediante la identificación de patrones lingüísticos y características textuales correlacionadas con la propagación de información falsa.
 ----
 
 ## 1. Preprocesamiento y Ingeniería de Datos
