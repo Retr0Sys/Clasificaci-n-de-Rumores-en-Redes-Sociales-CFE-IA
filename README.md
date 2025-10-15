@@ -29,7 +29,7 @@ Variable Independiente: "text" (Contenido del mensaje).
 
 Variable Dependiente: "is_rumor" (Etiqueta binaria: 1 = Rumor, 0 = No Rumor).
 
-Para la validación interna del rendimiento, el conjunto de datos es dividido mediante la técnica de train_test_split, reservando una porción para el entrenamiento y otra para la prueba. Se utiliza el algoritmo de Regresión Logística debido a su eficiencia en problemas de clasificación binaria y su capacidad de interpretación en el ámbito del análisis de texto.
+Para la validación interna del rendimiento, el conjunto de datos es dividido mediante la técnica de train_test_split, reservando una porción para el entrenamiento y otra para la prueba. 
 
 ## 3. Evaluación y Validación Externa
 La robustez del modelo se comprueba mediante la aplicación a un conjunto de datos ciego y una validación externa que simula un entorno real de competición.
