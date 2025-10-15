@@ -39,3 +39,5 @@ Validación Externa: El archivo resultante, que contiene las etiquetas predichas
 
 ## 4. Resultados
 <img width="1280" alt="Métrica de Desempeño del Modelo" src="https://github.com/user-attachments/assets/50cadafc-3031-4ad0-b520-3b6cbb4e7324" />
+
+El modelo a demostrado una alta taza de efectividad, siendo el porcentaje de acierto estimado mayor al 90%
