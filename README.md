@@ -19,7 +19,7 @@ Gestión de Valores Nulos: Se emplea la función .info() para diagnosticar la ca
 
 La columna "topic" es eliminada del conjunto debido a su alta tasa de valores nulos y su baja relevancia predictiva para el objetivo de clasificación textual.
 
-Los valores nulos remanentes en las variables "is_rumor" y "user.handle" son tratados mediante estrategias de imputación para garantizar la integridad del dataset.
+Los valores nulos remanentes en las variables "is_rumor" y "user.handle" son tratados mediante el remplazado por valores predeterminados para garantizar la integridad del dataset.
 
 ## 2. Desarrollo y Entrenamiento del Modelo
 El modelo se entrena para establecer la relación probabilística entre el contenido del mensaje y su clasificación binaria.
